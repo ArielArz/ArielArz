@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hola, soy Ariel
 
-<!--
-**ArielArz/ArielArz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Backend Developer | Apasionado por la tecnología y la mejora continua
 
-Here are some ideas to get you started:
+Soy un desarrollador backend enfocado en construir APIs robustas, escalables y seguras utilizando **NestJS**, **TypeScript** y **PostgreSQL**. Me encanta trabajar en equipo, aprender nuevas tecnologías y crear soluciones que realmente aporten valor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías que uso
+
+- **Lenguajes:** TypeScript, JavaScript, GDScript
+- **Frameworks:** NestJS, Express
+- **Base de datos:** PostgreSQL, TypeORM
+- **Herramientas:** Git, Swagger, Insomnia
+- **Servicios:** SendGrid, Cloudinary, Google Maps API, OAuth
+
+---
+
+## 📌 Sobre mí
+
+- 📚 Siempre en búsqueda de aprender más sobre buenas prácticas, testing, y arquitectura de software.
+- 🤝 Abierto a colaborar en proyectos interesantes, especialmente del lado backend.
+- 🌍 Amante de la tecnología que mejora la vida de las personas.
+
+---
+
+## 📫 Contacto
+
+- Email: arielarzamendia@gmail.com
+- LinkedIn: www.linkedin.com/in/ariel-arzamendia-30b322245
+
+---
+
+¡Gracias por visitar mi perfil! 😊
